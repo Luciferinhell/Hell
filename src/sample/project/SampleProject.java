@@ -18,7 +18,8 @@ public class SampleProject {
         // TODO code application logic here
         
         System.out.println("Welcome to Git/Github lab!");
-        System.out.println("Lucifer is in hell");
+        System.out.println("Lucifer is in lab");
+        
     }
     
 }
